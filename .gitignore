@@ -1,0 +1,13 @@
+# Ignore Node Modules
+node_modules/
+weather-bot-backend/node_modules/
+weather-bot-frontend/node_modules/
+
+# Ignore Secret Keys and Environment Variables
+.env
+weather-bot-backend/.env
+dialogflow-key.json
+weather-bot-backend/dialogflow-key.json
+
+# Ignore Mac System Files
+.DS_Store
