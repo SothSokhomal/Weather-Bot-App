@@ -156,22 +156,3 @@ ngrok http 5000
 
 Contributions are welcome. Feel free to fork this repository and submit a pull request.
 
----
-
-## 📄 License
-
-This project is open-source under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-Soth Sokhomal
-Software Engineering Student
-Future Full-Stack Developer & Cybersecurity Enthusiast
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
